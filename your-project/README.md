@@ -13,8 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-I'm building a strong random password generator as I found it interesting to understand how it works.
-
+I'm building a strong random password generator with 16 digits.
 ## Rules
 
 The code generates a 16 digit password that includes letters, numbers and punctuation. The letters are generated from the input taken from the user, which is their name. The numbers are the year of birth and the rest of the password is generated with random punctuation.
